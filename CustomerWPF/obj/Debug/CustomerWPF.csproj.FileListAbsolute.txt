@@ -1,0 +1,12 @@
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\bin\Debug\CustomerWPF.dll
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\bin\Debug\CustomerWPF.pdb
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerUC.g.cs
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF_MarkupCompile.cache
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF_MarkupCompile.lref
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerUC.baml
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF.g.resources
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF.Properties.Resources.resources
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF.csproj.GenerateResource.cache
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF.dll
+C:\Users\dungl\source\repos\MainApp\CustomerWPF\obj\Debug\CustomerWPF.pdb

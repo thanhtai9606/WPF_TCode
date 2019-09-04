@@ -1,0 +1,12 @@
+C:\Users\dungl\source\repos\MainApp\ABC\bin\Debug\ABC.dll
+C:\Users\dungl\source\repos\MainApp\ABC\bin\Debug\ABC.pdb
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\Main.g.cs
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC_MarkupCompile.cache
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC_MarkupCompile.lref
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\Main.baml
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC.g.resources
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC.csproj.GenerateResource.cache
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC.dll
+C:\Users\dungl\source\repos\MainApp\ABC\obj\Debug\ABC.pdb
